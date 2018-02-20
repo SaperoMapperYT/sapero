@@ -1,0 +1,10 @@
+Ibe = I
+Jao = You
+Uo = You (formal)
+Eda = He
+Ida = She
+Adi = They (neutral)
+Di = It
+Ode = We
+Udo = You (multiple)
+Ado = They (multiple)
