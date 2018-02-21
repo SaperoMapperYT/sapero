@@ -1,4 +1,4 @@
-# Sapiro /sapero:/
+# Sapiro (sapero:)
 Kaleo! Hello!
 
 Liag cerejao. (One cedori)
