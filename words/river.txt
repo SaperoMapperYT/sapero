@@ -1,8 +1,0 @@
-BASIC		nam	-(n) river, stream, channel
-PLACE		anama	-(n) floodplain, river valley
-ANIMAL		namai	-(n) water creature
-COLLECTIVE	namo	-(n) river system
-ABSTRACT	nami	-(n) life-river
-ADJECTIVE	namir	-flowing
-DIMINUTIVE	nim	-(n) small river
-AUGMENTATIVE	namnam	-(n) big river
