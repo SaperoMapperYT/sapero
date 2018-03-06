@@ -1,19 +1,19 @@
-cereri
+sereri
 
 Present:
-Ibe cere
-Jao ceres
-Uo ceresa
-Eda/Ida/Adi/Di cerem
-Ode cerere
-Udo cereres
-Ado cererem
+Ibe sere
+Jao seres
+Uo seresa
+Eda/Ida/Adi/Di serem
+Ode serere
+Udo sereres
+Ado sererem
 
 Past:
-Ibe ecere
-Jao eceres
-Uo eceresa
-Eda/Ida/Adi/Di ecerem
-Ode ecerere
-Udo ecereres
-Ado ecererem
+Ibe esere
+Jao eseres
+Uo eseresa
+Eda/Ida/Adi/Di eserem
+Ode eserere
+Udo esereres
+Ado esererem
