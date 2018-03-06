@@ -1,19 +1,19 @@
-cedori
+sedori
 
 Present:
-Ibe cedo
-Jao cedos
-Uo cedosa
-Eda/Ida/Adi/Di cedom
-Ode cedoro
-Udo cedoros
-Ado cedorom
+Ibe sedo
+Jao sedos
+Uo sedosa
+Eda/Ida/Adi/Di sedom
+Ode sedoro
+Udo sedoros
+Ado sedorom
 
 Past:
-Ibe ecedo
-Jao ecedos
-Uo ecedosa
-Eda/Ida/Adi/Di ecedom
-Ode ecedoro
-Udo ecedoros
-Ado ecedorom
+Ibe esedo
+Jao esedos
+Uo esedosa
+Eda/Ida/Adi/Di esedom
+Ode esedoro
+Udo esedoros
+Ado esedorom
