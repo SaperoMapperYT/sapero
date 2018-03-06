@@ -4,9 +4,17 @@ set -stream,
 rin -rain
 nam -river,
 anama -floodplain,
-namai -water animal,
+namai / naim -water animal,
 onam -river system,
 nami -life-river,
 bes -sea,
 oci -ocean,
 gaf -gulf,
+
+
+----------------
+Contribution needed: namai or naim put your username down here:
+
+namai: 
+
+naim:
