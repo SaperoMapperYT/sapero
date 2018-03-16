@@ -1,5 +1,5 @@
 pel -paper
-apela/sar -book
+apela / sar -book
 asara -bookshelf, library
 pelai -origami animals
 sari -sacred texts (bible, etc.)
